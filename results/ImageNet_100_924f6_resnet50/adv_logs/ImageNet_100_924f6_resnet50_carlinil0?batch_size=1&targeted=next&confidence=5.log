@@ -1,0 +1,5 @@
+Attack iteration 0
+try const 0.001
+0 (array([ 17.13894844], dtype=float32), 0.0)
+100 (array([ 16.68624878], dtype=float32), 0.00026630796)
+200 (array([ 16.7164917], dtype=float32), 0.00021048335)

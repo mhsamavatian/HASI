@@ -1,0 +1,2 @@
+dataset_name,model_name,accuracy_test,mean_confidence_test,test_set_selected_length,test_set_selected_idx_ranges,test_set_selected_idx_hash,accuracy_test_selected,mean_confidence_test_selected
+ImageNet,resnet50,0.68300000000000005,0.61783951204816112,100,"6,10-15:1,18-20:1,22-26:1,28,30,31,34,35,37,41-44:1,46,51-57:1,59,62-69:1,71-83:1,85,86,88-90:1,92,94,95,97-102:1,106-108:1,110,112,113,115,119,121,122,125,126,128-132:1,134,137,138,140-144:1,147,148,151-154:1",924f69fbac1fca9a4c13782dd00fe8c31c7d9d1c,1.0,0.87326696515083313
