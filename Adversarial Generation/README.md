@@ -1,1 +1,4 @@
-### This is a double blind repository for ISCA2021. 
+### This is extracted from Feature Squeezing code.
+
+The EAD and HASI aware attacks are added. 
+https://github.com/mzweilin/EvadeML-Zoo
